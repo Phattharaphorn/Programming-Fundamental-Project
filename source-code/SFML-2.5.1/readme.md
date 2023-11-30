@@ -1,11 +1,14 @@
 [![SFML logo](https://www.sfml-dev.org/images/logo.png)](https://www.sfml-dev.org)
 
 # SFML — Simple and Fast Multimedia Library
-
 SFML is a simple, fast, cross-platform and object-oriented multimedia API. It provides access to windowing, graphics, audio and network. It is written in C++, and has bindings for various languages such as C, .Net, Ruby, Python.
 
-## Download
+## State of Development
+Development is focused on the next major version in the master branch. No more features are planned for the 2.x release series.
+- The master branch contains work in progress for the next major version SFML 3. As such it's considered unstable, but any testing and feedback is highly appreciated.
+- The 2.6.0 tag is the latest official SFML release and will be the last minor release in the 2.x series.
 
+## Download
 You can get the latest official release on [SFML's website](https://www.sfml-dev.org/download.php). You can also get the current development version from the [Git repository](https://github.com/SFML/SFML).
 
 ## Install
